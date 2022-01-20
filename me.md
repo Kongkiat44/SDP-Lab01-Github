@@ -1,3 +1,3 @@
 # Kongkiat Chunngam
 
-![My Image](myimage.jpg)
+![My Image](myimage.png)
