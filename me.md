@@ -1,2 +1,6 @@
 # Kongkiat Chunngam
-![My Image](myimage.png)
+➖◾◾◾◾ ◾◾◾➖➖ ➖➖➖➖➖ ◾➖➖➖➖ ➖➖➖➖➖ ➖➖➖➖➖ ◾◾◾◾◾ ◾◾➖➖➖
+
+![My Image](myimage-2.png)
+
+➖◾◾◾◾ ◾◾◾➖➖ ➖➖➖➖➖ ◾➖➖➖➖ ➖➖➖➖➖ ➖➖➖➖➖ ◾◾◾◾◾ ◾◾➖➖➖
